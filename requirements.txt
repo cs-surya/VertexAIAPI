@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+sentence-transformers
+google-cloud-aiplatform
+python-dotenv
+Datapoint
+google-cloud-firestore
